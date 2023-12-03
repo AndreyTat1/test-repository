@@ -2,7 +2,7 @@ import logo from "./logo.svg";
 import "./App.css";
 
 function App() {
-  const greeting = "Это тестовый проект Татаркин Андрей Дмитриевич";
+  const greeting = "Это тестовый проект Татаркин Андрей Дмитриевич ПОВа-о20";
 
   return (
     <div className="App">
